@@ -9,3 +9,6 @@ Once you've installed statsmodels, you should be able to import and use the plot
 pip install scikit-learn
 
 Once you've installed scikit-learn, you should be able to import and use the RandomForestRegressor class and train_test_split function in your Python script or Jupyter notebook. You should also be able to import and use the SVR class and MinMaxScaler.
+
+For importing dataset, we have uploaded the dataset we used: TATASTEEL.csv
+Make sure the dataset is in the same directory of python file, else you will need to tinker with the directory and assign the correct directory path.
